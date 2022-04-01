@@ -6,6 +6,7 @@ function App() {
   let name = "jayanth";
   // master  the line
   name = "machangedster";
+  name = "jjdcjcih";
   return (
     <div className="App">
       <div class="container p-5 my-5 border">
